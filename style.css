@@ -24,3 +24,23 @@ footer {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 15px;
 }
+
+#blocoForm {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: aqua;
+
+
+
+}
+
+#formAdocao {
+    align-items: center;
+    padding: 200px;
+    height: 150px;
+    width: 100px;
+    background-color: wheat;
+
+}
